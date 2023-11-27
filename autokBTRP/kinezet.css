@@ -1,0 +1,12 @@
+#fotartalom{
+    display: grid;
+    grid-template-columns: 2fe 1fr;
+    ''
+    ''
+    ;
+}
+
+img{
+    width: 200px;
+    height: auto;
+}
